@@ -15,7 +15,7 @@ def create_table(filename, name):
 	for line in lines:
 		line = line.replace("\t", " ")
 		line = line.replace("\n", "")
-		line = line.split(",")
+		line = line.split(",",1)
 		x.add_row(line)
 
 

@@ -23,3 +23,78 @@ tenir      , to hold
 porter     , to carry
 parler     , to speak
 montrer    , to show
+continuer  , to continue 
+penser     , to think    
+suivre     , to follow, to pay attention 
+connaître  , to know, to be acquainted with  
+croire     , to believe (in) 
+commencer  , to begin, to start, to commence 
+compter    , to count    
+entendre   , to hear, to understand  
+attendre   , to wait, to expect  
+remettre   , to put back (on), to replace, to deliver    
+appeler    , to call, to contact 
+permettre  , to permit, to allow, to enable  
+occuper    , to occupy, to take up (space/time)  
+devenir    , to become, to grow (into), to turn (into)   
+partir     , to leave, to depart, to proceed 
+décider    , to decide, to persuade  
+arriver    , to arrive, to happen    
+servir     , to serve    
+sembler    , to seem 
+revenir    , to return, to come back 
+laisser    , to leave, to allow, to let  
+recevoir   , to receive, to welcome  
+répondre   , to answer, to reply 
+vivre      , to live 
+rappeler   , to call back, to remind 
+présenter  , to present, to introduce    
+accepter   , to accept   
+agir       , to act  
+poser      , to put down, to pose, to lay (something) down   
+jouer      , to play, to act, to gamble  
+reconnaître, to recognize, to acknowledge    
+choisir    , to choose, to select    
+toucher    , to touch, to feel, to affect    
+aimer      , to like, to love    
+retrouver  , to find, to regain, to meet up  
+perdre     , to lose, to waste   
+expliquer  , to explain, to account for  
+considérer , to consider, to study   
+ouvrir     , to open (up)    
+gagner     , to win, to gain, to earn    
+exister    , to exist    
+refuser    , to refuse   
+lire       , to read 
+réussir    , to succeed  
+changer    , to change, to alter 
+travailler , to work 
+représenter, to represent, to depict, to portray 
+assurer    , to secure, to assure, to insure 
+essayer    , to try, to attempt  
+empêcher   , to prevent, to stop
+sortir     , to go out, to leave, to exit, to come out   
+reprendre  , to resume, to recover, to take back 
+mener      , to lead, to conduct 
+appartenir , to belong, to concern   
+risquer    , to risk 
+concerner  , to concern, to affect   
+apprendre  , to learn, to teach, to hear of  
+rencontrer , to meet, to encounter   
+créer      , to create, to build 
+obtenir    , to obtain, to get   
+chercher   , to look for, to seek    
+entrer     , to enter, to go into    
+proposer   , to suggest, to propose, to offer    
+apporter   , to bring, to cause  
+utiliser   , to use, to employ   
+atteindre  , to reach, to attain, to achieve 
+tenter     , to tempt    
+importer   , to import, to matter    
+ajouter    , to add  
+produire   , to produce 
+préparer   , to prepare (something), to make 
+relever    , to raise, to stand up, to pick up   
+écrire     , to write    
+défendre   , to defend, to stand up for, to forbid   
+tirer      , to pull, to draw (curtains, sword), to fire (gun)
