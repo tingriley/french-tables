@@ -7,7 +7,7 @@ table {
     font-family: sans-serif;
     min-width: 400px;
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
-    table-layout: fixed;
+    table-layout: auto;
     width: 65%; 
 }
 
@@ -28,6 +28,9 @@ th,
     padding: 4px 4px;
 }
 
+tr td:first-child{
+    width: 45%; 
+}
 
 caption {
   color: #009879;
