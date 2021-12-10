@@ -1,0 +1,25 @@
+être       , to be   
+avoir      , to have 
+pouvoir    , to be able
+faire      , to do
+mettre     , to put
+dire       , to say
+devoir     , must
+prendre    , to take
+donner     , to give
+aller      , to go   
+vouloir    , to want
+savoir     , to know 
+falloir    , to have to  
+voir       , to see  
+demander   , to ask
+trouver    , to find
+rendre     , to return (something) 
+venir      , to come 
+passer     , to pass
+comprendre , to understand
+rester     , to stay
+tenir      , to hold 
+porter     , to carry
+parler     , to speak
+montrer    , to show
